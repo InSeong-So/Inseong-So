@@ -12,6 +12,12 @@
 | **:briefcase:Employment** | 2019. 3 ~ | Consultant, e-HR System Developer | **HCG, HUMAN CONSULTING GROUP** |
 | - | 2018. 10 ~ 2018. 12 | R&D Developer(Probation) | **OPENBASE** |
 
+### :notes:Langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InSeong-So&layout=compact)](https://github.com/InSeong-So/InSeong-So)
+
+<!-- ### :iphone: Contact -->
+
 <!--
 **InSeong-So/Inseong-So** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
