@@ -10,7 +10,7 @@
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2018. 9 ~ 2020. 9 | Computer Software | **SEJONG CYBER UNIVERSITY** |
-| **:briefcase:Employment** | 2019. 3 ~ | Consultant, e-HR System Developer | **HCG, HUMAN CONSULTING GROUP** |
+| **:briefcase:Employment** | 2019. 3 ~ 2021. 6| Consultant, e-HR System Developer | **HCG, HUMAN CONSULTING GROUP** |
 | - | 2018. 10 ~ 2018. 12 | R&D Developer(Probation) | **OPENBASE** |
 
 ### :notes:Langs
