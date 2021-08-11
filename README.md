@@ -5,6 +5,12 @@
 <br>
 
 <p align="center">
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goflvhxj2547">
+</p>
+
+<br>
+  
+<p align="center">
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/InSeong-So&count_bg=%234CD3FC&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/>
   </a>
