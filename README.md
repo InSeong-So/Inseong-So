@@ -46,18 +46,18 @@
 
 <table align="center">
   <thead>
-    <th>Organization</th> 
-    <th>Contents</th> 
-    <th>Date</th>  
+    <th>경력 및 조직</th> 
+    <th>직무</th> 
+    <th>재직년월</th>
   </thead>
   <tbody>
     <tr>
-      <td>HCG, hunel B&U</td>
+      <td><a href="https://www.e-hcg.com/kor/">HCG</a>, hunel B&U</td>
       <td>Front-end Developer</td>
       <td>2019. 03 ~ 2021. 07</td>
     </tr>
     <tr>
-      <td>OPENBASE, R&D</td>
+      <td><a href="http://www.openbase.co.kr/">OPENBASE</a>, R&D</td>
       <td>Full-Stack Developer(Probation)</td>
       <td>2018. 10 ~ 2018. 12</td>
     </tr>
